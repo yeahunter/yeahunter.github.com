@@ -1,2 +1,2 @@
-yeahunter.github.com
+peti.info
 ====================
